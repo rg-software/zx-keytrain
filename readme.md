@@ -4,7 +4,7 @@ A simplified ZX Spectrum remake of the popular touch typing training game [BabyT
 
 ![](keytrain.png)
 
-The game mostly "borrows" graphics from other games and tools; sound is created by typing some sheet music into [Wham!](https://worldofspectrum.org/archive/software/utilities/wham-the-music-box-melbourne-house)
+The game mostly "borrows" graphics from other games ([Dizzy 3](https://worldofspectrum.org/archive/software/games/fantasy-world-dizzy-code-masters-ltd), [R-Type](https://worldofspectrum.org/archive/software/games/r-type-electric-dreams-software), [Barbarian](https://worldofspectrum.org/archive/software/games/barbarian-melbourne-house)) and tools ([Laser Basic](https://worldofspectrum.org/archive/software/utilities/laser-basic-ocean-software-ltd); sound is created by typing some sheet music into [Wham!](https://worldofspectrum.org/archive/software/utilities/wham-the-music-box-melbourne-house)
 
 You can [play the game online](https://rg-software.github.io/zx-keytrain/keyboard.html) with JSSpeccy 3 emulator.
 
